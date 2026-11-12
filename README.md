@@ -25,3 +25,7 @@ base64 --decode command.txt
 Plaintext:
 
 > Tanam malware di server utama besok jam 12 malam.
+
+## Message
+
+Permisi bapak, saya sudah merevisi jawaban saya untuk lalu lintas pcap yg sudah bapak nilai sebelumnya mungkin bapak apabila berkenan meluangkan sedikit waktunya untuk menilai kembali tugasnya, namun untuk nama lengkap sendiri saya masih belum bisa menemukannya

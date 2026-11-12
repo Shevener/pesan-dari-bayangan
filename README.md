@@ -28,4 +28,4 @@ Plaintext:
 
 ## Message
 
-Permisi bapak, saya sudah merevisi jawaban saya untuk lalu lintas pcap yg sudah bapak nilai sebelumnya mungkin bapak apabila berkenan meluangkan sedikit waktunya untuk menilai kembali tugasnya, namun untuk nama lengkap sendiri saya masih belum bisa menemukannya
+Permisi bapak, terkait tugas yg analisis lalu lintas jaringan yg bapak sudah nilai sebelumnya disana saya sudah merevisi jawaban saya sesuai dari apa yg salah, mungkin apabila bapak berkenan meluangkan sedikit waktunya untuk menilai kembali tugasnya, namun untuk nama lengkap sendiri saya masih belum bisa menemukannya. Terima Kasih
